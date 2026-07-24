@@ -17,6 +17,13 @@ A comprehensive thermal monitoring application for Android devices (API 21+, tar
 - Updates in real-time across all UI elements
 - Floating window also adapts color gradient
 
+## Quick Install
+
+For immediate testing, you can install the pre-built APK directly from the repository:
+1. Download **[Thermal.apk](./Thermal.apk)** from the root of this project.
+2. Transfer it to your Android device.
+3. Open the APK and follow the installation prompts (you may need to enable "Install from Unknown Sources").
+
 ### 3. **History Tab**
 - View temperature trends over time
 - Three time ranges: 1 Hour, 1 Day, 1 Week

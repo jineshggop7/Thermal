@@ -25,7 +25,13 @@ Before building the Thermal Monitor app, ensure you have the following installed
 
 ## Installation Steps
 
-### Step 1: Clone/Download Project
+### Option 1: Direct APK Installation (Fastest)
+1. Download **[Thermal.apk](./Thermal.apk)** from the root directory.
+2. Transfer the APK to your Android device.
+3. Open the file on your device and install (allow "Install from Unknown Sources" if prompted).
+
+### Option 2: Build from Source
+#### Step 1: Clone/Download Project
 
 ```bash
 cd /path/to/your/workspace
