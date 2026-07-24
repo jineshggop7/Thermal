@@ -1,0 +1,41 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.ap_
+*.aab
+
+# Android Studio
+.idea/
+.DS_Store
+*.iml
+*.iws
+*.ipr
+out/
+
+# Local properties
+local.properties
+
+# Keystore files
+*.jks
+*.keystore
+
+# Log files
+*.log
+
+# Kotlin/Java
+*.class
+*.jar
+
+# IDE
+.project
+.classpath
+.settings/
+
+# Android
+gen/
+bin/
+.android/
+
+# Files
+.gradletasknamecache
