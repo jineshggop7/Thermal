@@ -1,7 +1,6 @@
 # Gradle
 .gradle/
 build/
-*.apk
 *.ap_
 *.aab
 
