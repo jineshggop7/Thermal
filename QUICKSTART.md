@@ -4,7 +4,7 @@
 
 ### Step 1: Open Project
 1. Launch **Android Studio**
-2. File → Open → Select `C:\Users\jines\Desktop\Coding Practice\TempMonitor`
+2. File → Open → Select the project folder
 3. Wait for Gradle sync (2-3 minutes)
 
 ### Step 2: Install SDK (if needed)
@@ -77,7 +77,7 @@
 
 ### Clean Build
 ```bash
-cd C:\Users\jines\Desktop\Coding\ Practice\TempMonitor
+cd /path/to/project
 ./gradlew clean
 ./gradlew build
 ```

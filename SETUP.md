@@ -28,15 +28,15 @@ Before building the Thermal Monitor app, ensure you have the following installed
 ### Step 1: Clone/Download Project
 
 ```bash
-cd C:\Users\jines\Desktop\Coding\ Practice
-# Project is already in: TempMonitor
+cd /path/to/your/workspace
+# Project is already in: ThermalMonitor
 ```
 
 ### Step 2: Open in Android Studio
 
 1. Launch Android Studio
 2. Click "Open"
-3. Navigate to: `C:\Users\jines\Desktop\Coding Practice\TempMonitor`
+3. Navigate to the project folder
 4. Select the folder and click OK
 5. Wait for Gradle sync to complete
 

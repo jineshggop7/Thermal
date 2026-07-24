@@ -102,7 +102,7 @@ class MainActivity : AppCompatActivity() {
     private fun showAboutDialog() {
         AlertDialog.Builder(this)
             .setTitle("About Thermal")
-            .setMessage("Engineered for purpose.\nNothing more. Nothing less.\n\nAuthors:\n• Basil Babu\n• Jinesh G Gop")
+            .setMessage("Engineered for purpose.\nNothing more. Nothing less.")
             .setPositiveButton("OK", null)
             .show()
     }
